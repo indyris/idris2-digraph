@@ -1,0 +1,6 @@
+package data-digraph
+
+depends = base, contrib
+
+modules = Data.Digraph
+
